@@ -244,4 +244,5 @@ section{
 .translator{
 width: 100%;
 height: auto;
+align-items: right;
 }
